@@ -6,7 +6,11 @@ require("dotenv").config();
 const expenseRoutes = require("./routes/expenseRoutes");
 
 const app = express();
+// ... your existing mongoose connection, middleware, and routes ...
 
+// Keep your app.listen if you want to run it locally, 
+// but make sure you export the app instance like this:
+module.exports = app;
 // Middleware
 app.use(cors());
 app.use(express.json());
