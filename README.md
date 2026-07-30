@@ -23,7 +23,7 @@ A modern, full-stack Expense Tracker web application built using the **MERN** st
 ## 🛠️ Tech Stack
 
 ### **Frontend (Client)**
-* **Library:** React.js (Bootstrapped with Vite)
+* **Library:** React.js 
 * **Styling:** Tailwind CSS / CSS Modules
 * **HTTP Client:** Axios
 * **Icons & Charts:** Lucide React / Recharts / Chart.js
