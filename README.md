@@ -1,12 +1,12 @@
 # 💸 Expense Tracker (MERN Stack)
 
-A modern, full-stack Expense Tracker web application built using the **MERN** stack (MongoDB, Express.js, React with Vite, Node.js). This app allows users to easily log, view, track, and manage their daily expenses with category filters and summary charts.
+A modern, full-stack Expense Tracker web application built using the **MERN** stack (MongoDB, Express.js, React Vite, Node.js). This app allows users to easily log, view, track, and manage their daily expenses with category filters and summary charts.
 
 ---
 
 ## 🚀 Live Demo
 
-* **Live Application:** [Expense Tracker on Vercel](https://expense-tracker-alpha-six-99.vercel.app)
+* **Live Application:** [Expense Tracker on Vercel]([https://expense-tracker-4rss.vercel.app/])
 
 ---
 
